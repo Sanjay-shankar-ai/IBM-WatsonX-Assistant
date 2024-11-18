@@ -26,3 +26,5 @@ An efficient IT support system is critical for maintaining a secure, productive,
 - **Conversational Search:** Allows users to query documentation and knowledge bases seamlessly.
 - **Multi-Layered Architecture:** Incorporates default behavior, custom-built actions, and fallback mechanisms for robust support.
 
+## Actions
+![Support message](https://github.com/user-attachments/assets/ea680655-c0f3-4207-baf8-3fae5ac992d9)
