@@ -2,16 +2,7 @@
 
 ## Problem Statement
 
-Inadequate IT support poses significant challenges for businesses, including:  
-
-- **Security Breaches:** Vulnerability to data theft, legal issues, and financial losses.  
-- **Reduced Productivity:** Employees experience downtime when unable to access systems, leading to frustration and delays.  
-- **Service Interruptions:** Unresolved IT issues can cause prolonged outages, affecting customer satisfaction and trust.  
-- **Financial Impact:** Delayed resolutions escalate operational costs and harm business continuity.  
-
-Challenges such as untrained staff and reactive firefighting often hinder effective IT problem-solving, creating the need for a more scalable and efficient solution.  
-
----
+Due to Poor IT support Organizations often face challenges in managing IT support effectively, leading to unresolved technical issues, business downtime, and productivity losses. Traditional support systems can be inefficient, slow, or inaccessible, leaving employees and customers without timely solutions. This negatively impacts operational efficiency and customer satisfaction.
 
 ## Why It Is Important  
 
@@ -25,3 +16,13 @@ Challenges such as untrained staff and reactive firefighting often hinder effect
 An efficient IT support system is critical for maintaining a secure, productive, and customer-focused business environment.  
 
 # Built an conversational watsonx assistant for IT support
+
+## Assistant architecture
+![Screenshot 2024-11-18 204043](https://github.com/user-attachments/assets/97372422-500c-4f24-bbe3-87781346d7d0)
+
+- **AI-Powered Assistance: Delivers automated and conversational support for IT-related queries.
+- **Customizable Actions: Includes tailored actions for specific business needs like "Book Technical Team."
+- **Fallback to Live Agent: Escalates unresolved issues to live agents via Zendesk integration.
+- **Conversational Search: Allows users to query documentation and knowledge bases seamlessly.
+- **Multi-Layered Architecture: Incorporates default behavior, custom-built actions, and fallback mechanisms for robust support.
+
