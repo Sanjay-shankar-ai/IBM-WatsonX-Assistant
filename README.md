@@ -27,4 +27,7 @@ An efficient IT support system is critical for maintaining a secure, productive,
 - **Multi-Layered Architecture:** Incorporates default behavior, custom-built actions, and fallback mechanisms for robust support.
 
 ## Actions
-![Support message](https://github.com/user-attachments/assets/ea680655-c0f3-4207-baf8-3fae5ac992d9)
+### IT support
+![Support message](https://github.com/user-attachments/assets/ea680655-c0f3-4207-baf8-3fae5ac992d9) ![Screenshot 2024-11-18 203657](https://github.com/user-attachments/assets/b3743661-7fb6-453d-968d-a1ba67dfe6a5)
+
+### 
