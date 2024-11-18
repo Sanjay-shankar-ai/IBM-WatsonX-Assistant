@@ -1,5 +1,8 @@
 # IBM-WatsonX-IT-Support-Assistant
 
+# Project link
+https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fau-syd.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-9acc7ba9-e523-4e5e-aefc-005c19a384ae%3A%3A47c14eb5-8a1d-4975-a7fc-86bd52147710&integrationID=9716eda7-ea82-4631-8af0-631bb0c76754&region=au-syd&serviceInstanceID=9acc7ba9-e523-4e5e-aefc-005c19a384ae
+
 ## Problem Statement
 
 Due to Poor IT support Organizations often face challenges in managing IT support effectively, leading to unresolved technical issues, business downtime, and productivity losses. Traditional support systems can be inefficient, slow, or inaccessible, leaving employees and customers without timely solutions. This negatively impacts operational efficiency and customer satisfaction.
@@ -16,10 +19,10 @@ Due to Poor IT support Organizations often face challenges in managing IT suppor
 An efficient IT support system is critical for maintaining a secure, productive, and customer-focused business environment.  
 
 # Built an conversational watsonx assistant for IT support
-## using WatsonX Assistant
+## Using WatsonX Assistant
 ![Screenshot 2024-11-18 232008](https://github.com/user-attachments/assets/59764d48-3e3d-466a-bd16-88fd0fba66ca)
 
-## using Watson.ai prompt lab
+## Using Watson.ai prompt lab
 ![Screenshot 2024-11-18 204407](https://github.com/user-attachments/assets/805c8f48-4d39-45cf-aa6d-1a87c201b02a)
 
 
