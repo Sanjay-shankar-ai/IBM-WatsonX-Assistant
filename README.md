@@ -1,5 +1,6 @@
 # IBM-WatsonX-IT-Support-Assistant
-## Problem Statement  
+
+## Problem Statement
 
 Inadequate IT support poses significant challenges for businesses, including:  
 
@@ -22,3 +23,5 @@ Challenges such as untrained staff and reactive firefighting often hinder effect
 - **Scalability:** AI-driven solutions adapt to growing demands, ensuring consistent performance as businesses expand.  
 
 An efficient IT support system is critical for maintaining a secure, productive, and customer-focused business environment.  
+
+# Built an conversational watsonx assistant for IT support
