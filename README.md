@@ -1,14 +1,14 @@
 # IBM-WatsonX-IT-Support-Assistant
 
+## Problem Statement
+
+Due to Poor IT support Organizations often face challenges in managing IT support effectively, leading to unresolved technical issues, business downtime, and productivity losses. Traditional support systems can be inefficient, slow, or inaccessible, leaving employees and customers without timely solutions. This negatively impacts operational efficiency and customer satisfaction.
+
 ## Project link 1 -> Watsonx Assistant
 https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fau-syd.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-9acc7ba9-e523-4e5e-aefc-005c19a384ae%3A%3A47c14eb5-8a1d-4975-a7fc-86bd52147710&integrationID=9716eda7-ea82-4631-8af0-631bb0c76754&region=au-syd&serviceInstanceID=9acc7ba9-e523-4e5e-aefc-005c19a384ae
 
 ## Project Link 2 -> Watson.ai
 https://smartsupport-it.streamlit.app/
-
-## Problem Statement
-
-Due to Poor IT support Organizations often face challenges in managing IT support effectively, leading to unresolved technical issues, business downtime, and productivity losses. Traditional support systems can be inefficient, slow, or inaccessible, leaving employees and customers without timely solutions. This negatively impacts operational efficiency and customer satisfaction.
 
 ## Why It Is Important  
 
