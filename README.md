@@ -20,9 +20,9 @@ An efficient IT support system is critical for maintaining a secure, productive,
 ## Assistant architecture
 ![Screenshot 2024-11-18 204043](https://github.com/user-attachments/assets/97372422-500c-4f24-bbe3-87781346d7d0)
 
-- **AI-Powered Assistance: Delivers automated and conversational support for IT-related queries.
-- **Customizable Actions: Includes tailored actions for specific business needs like "Book Technical Team."
-- **Fallback to Live Agent: Escalates unresolved issues to live agents via Zendesk integration.
-- **Conversational Search: Allows users to query documentation and knowledge bases seamlessly.
-- **Multi-Layered Architecture: Incorporates default behavior, custom-built actions, and fallback mechanisms for robust support.
+- **AI-Powered Assistance:** Delivers automated and conversational support for IT-related queries.
+- **Customizable Actions:** Includes tailored actions for specific business needs like "Book Technical Team."
+- **Fallback to Live Agent:** Escalates unresolved issues to live agents via Zendesk integration.
+- **Conversational Search:** Allows users to query documentation and knowledge bases seamlessly.
+- **Multi-Layered Architecture:** Incorporates default behavior, custom-built actions, and fallback mechanisms for robust support.
 
