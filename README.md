@@ -1,1 +1,1 @@
-# IBM-WatsonX-Assistant
+# IBM-WatsonX-IT-Support-Assistant
